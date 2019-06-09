@@ -1,0 +1,11 @@
+/home/dev-fatih/NET-Core/NETCore-SQLite/bin/Debug/netcoreapp2.2/NETCore-SQLite.deps.json
+/home/dev-fatih/NET-Core/NETCore-SQLite/bin/Debug/netcoreapp2.2/NETCore-SQLite.runtimeconfig.json
+/home/dev-fatih/NET-Core/NETCore-SQLite/bin/Debug/netcoreapp2.2/NETCore-SQLite.runtimeconfig.dev.json
+/home/dev-fatih/NET-Core/NETCore-SQLite/bin/Debug/netcoreapp2.2/NETCore-SQLite.dll
+/home/dev-fatih/NET-Core/NETCore-SQLite/bin/Debug/netcoreapp2.2/NETCore-SQLite.pdb
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.csprojAssemblyReference.cache
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.csproj.CoreCompileInputs.cache
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.AssemblyInfoInputs.cache
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.AssemblyInfo.cs
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.dll
+/home/dev-fatih/NET-Core/NETCore-SQLite/obj/Debug/netcoreapp2.2/NETCore-SQLite.pdb
